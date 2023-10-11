@@ -1,4 +1,5 @@
-# React + Vite
+# Currency Converter
+Exchange rates and currency types fetched from API
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
